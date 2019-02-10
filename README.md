@@ -2,7 +2,7 @@
 
 # First meetup R-Ladies Montpellier
 
-- Presentation of [R-Ladies Global](https://rladies.org/) and R-Ladies Montpellier by [Criscely Luján(https://github.com/CriscelyLP).
+- Presentation of [R-Ladies Global](https://rladies.org/) and R-Ladies Montpellier by [Criscely Luján](https://github.com/CriscelyLP).
 
 - Presentation of Tidyverse by [Cécile Sauder](https://github.com/cecilesauder/RLadiesTidyverse).
 
