@@ -2,11 +2,11 @@
 
 # First meetup R-Ladies Montpellier
 
-- Presentation of the organization (R-Ladies Global and R-Ladies Montpellier) by [Criscely Luján (https://github.com/CriscelyLP).
+- Presentation of [R-Ladies Global](https://rladies.org/) and R-Ladies Montpellier by [Criscely Luján(https://github.com/CriscelyLP).
 
-- Presentation of Tidyverse by [Cécile Sauder] (https://github.com/cecilesauder).
+- Presentation of Tidyverse by [Cécile Sauder](https://github.com/cecilesauder/RLadiesTidyverse).
 
-- Presentation of rap R package by [Romain François] (https://github.com/romainfrancois).
+- Presentation of rap by [Romain François](https://github.com/romainfrancois/rap).
 
 ## Details of the event:
 - Date: 12 Dic. 2018
